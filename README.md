@@ -8,4 +8,4 @@
  
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/[14122375/hamiltonpharmd](https://stackoverflow.com/users/7557094/amit-semwal))
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android;Java;C++:Flutter;ReactNative)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android;Java;Flutter;ReactNative:Ionic)](https://git.io/typing-svg)
